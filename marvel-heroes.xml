@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marvel-heroes>
+    <hero>
+        <name>Tony Stark</name>
+        <species>Human</species>
+        <alias>Iron Man</alias>
+        <appearances>
+            <movie>The Avengers</movie>
+            <movie>Captain America: Civil War</movie>
+            <movie>Avengers: Infinity War</movie>
+            <movie>Avengers: Endgame</movie>
+        </appearances>
+        <equipment>Iron Man Armor: Mark LXXXV</equipment>
+    </hero>
+    <hero>
+        <name>Steve Rogers</name>
+        <species>Human</species>
+        <alias>Captain America</alias>
+        <appearances>
+            <movie>The Avengers</movie>
+            <movie>Captain America: Civil War</movie>
+            <movie>Avengers: Infinity War</movie>
+            <movie>Avengers: Endgame</movie>
+        </appearances>
+        <equipment>Wakandan Shield</equipment>
+    </hero>
+    <hero>
+        <name>Thor Odinson</name>
+        <species>Asgardian</species>
+        <alias>Mighty Thor</alias>
+        <appearances>
+            <movie>Thor</movie>
+            <movie>The Avengers</movie>
+            <movie>Avengers: Infinity War</movie>
+            <movie>Avengers: Endgame</movie>
+        </appearances>
+        <equipment>Mjølnir</equipment>
+    </hero>
+    <hero>
+        <name>Bruce Banner</name>
+        <species>Human</species>
+        <alias>Hulk</alias>
+        <appearances>
+            <movie>Hulk</movie>
+            <movie>The Avengers</movie>
+            <movie>Avengers: Infinity War</movie>
+            <movie>Avengers: Endgame</movie>
+        </appearances>
+        <equipment>Sakaaran Battle Axe</equipment>
+    </hero>
+    <hero>
+        <name>Natasha Romanoff</name>
+        <species>Human</species>
+        <alias>Black Widow</alias>
+        <appearances>
+            <movie>The Avengers</movie>
+            <movie>Captain America: Civil War</movie>
+            <movie>Avengers: Infinity War</movie>
+            <movie>Avengers: Endgame</movie>
+        </appearances>
+        <equipment>Black Widow's Bite</equipment>
+    </hero>
+
+
+</marvel-heroes>
